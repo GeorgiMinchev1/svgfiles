@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1560351913 source:c:\users\gogo\desktop\svgfilesproject\circle.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"rectangle.h"
+	"circle.h"
+	"shapeField.h"
+	"commonfunctions.h"
+
+1560315464 c:\users\gogo\desktop\svgfilesproject\rectangle.h
+	<iostream>
+	<string>
+	"shape.h"
+
+1560315977 c:\users\gogo\desktop\svgfilesproject\shape.h
+	<iostream>
+
+1560315476 c:\users\gogo\desktop\svgfilesproject\circle.h
+	<iostream>
+	"shape.h"
+
+1560348882 c:\users\gogo\desktop\svgfilesproject\shapefield.h
+	<iostream>
+	<vector>
+	"shape.h"
+
+1560196658 c:\users\gogo\desktop\svgfilesproject\commonfunctions.h
+	<iostream>
+	<string>
+	<sstream>
+
+1560196691 source:c:\users\gogo\desktop\svgfilesproject\commonfunctions.cpp
+	<iostream>
+	<sstream>
+	"commonfunctions.h"
+
+1560365085 source:c:\users\gogo\desktop\svgfilesproject\elipse.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"rectangle.h"
+	"circle.h"
+	"elipse.h"
+	"commonfunctions.h"
+
+1560315486 c:\users\gogo\desktop\svgfilesproject\elipse.h
+	<iostream>
+	<string>
+	"shape.h"
+
+1560351873 source:c:\users\gogo\desktop\svgfilesproject\rectangle.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"shape.h"
+	"rectangle.h"
+	"circle.h"
+	"shapeField.h"
+	"commonfunctions.h"
+
+1560315962 source:c:\users\gogo\desktop\svgfilesproject\shape.cpp
+	<iostream>
+	"shape.h"
+
+1560354875 source:c:\users\gogo\desktop\svgfilesproject\shapefield.cpp
+	<iostream>
+	<vector>
+	"shape.h"
+	"shapefield.h"
+	"rectangle.h"
+	"elipse.h"
+	"circle.h"
+
+1560354996 source:c:\users\gogo\desktop\svgfilesproject\svgparser.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"shape.h"
+	"shapeField.h"
+	"svgparser.h"
+
+1560352656 c:\users\gogo\desktop\svgfilesproject\svgparser.h
+	<iostream>
+	<string>
+	"shape.h"
+	"shapeField.h"
+
+1560360268 source:c:\users\gogo\desktop\svgfilesproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	"shape.h"
+	"rectangle.h"
+	"circle.h"
+	"elipse.h"
+	"shapefield.h"
+	"svgparser.h"
+	"commonfunctions.h"
+
+1560282308 source:c:\users\gogo\desktop\svgfilesproject\test.cpp
+	<iostream>
+	"rectangle.h"
+	"circle.h"
+	"elipse.h"
+	"shapefield.h"
+
